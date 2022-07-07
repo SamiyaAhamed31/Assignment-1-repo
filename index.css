@@ -51,26 +51,35 @@ body{
     display: flex;
    
   }
-  .box{
-    margin: 10%;
-  }
   h1{
     font-size: 30px;   
   }
   #a{
     width: 30%;
     background-color: aquamarine;
-    margin: 10px 40px 10px 15px;
-    
+    margin: 10px;
+    text-align: justify ;
+    word-wrap: break-word;
+    padding: 15px;
+    border-radius: 10px;
   }
   #b{
+    width: 30%;
     background-color: bisque;
-    margin: 10px 40px 10px 40px;
-    
+    margin: 10px;
+    text-align: justify ;
+    word-wrap: break-word;
+    padding: 15px;
+    border-radius: 10px;
   }
   #c{
+    width: 30%;
     background-color: hotpink;
-    margin: 10px 15px 10px 40px;
+    margin: 10px;
+    text-align: justify ;
+    word-wrap: break-word;
+    padding: 15px;
+    border-radius: 10px;
   }
   .width{
     width: auto;
