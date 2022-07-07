@@ -1,0 +1,88 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: aliceblue;
+}
+.size{
+    font-size: 60px;
+}
+.buttons {
+    background-color:  #f15353;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .BgI{
+    background-image: url(images/donation13.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    max-width: 100%;
+    padding: 200px 70px 100px 70px;
+  }
+  .secondstyle{
+    
+      color: black;
+      text-align: center;
+      padding: 100px 70px 50px 70px;
+  }
+  .tkBColor{
+    color: black;
+    background-color: rgb(230, 225, 225);
+    border: none;
+    border-radius: 5px;
+    padding: 25px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  h5{
+    color: rgba(102, 97, 97, 0.717);
+  }
+  section{
+    color: black;
+    display: flex;
+   
+  }
+  .box{
+    margin: 10%;
+  }
+  h1{
+    font-size: 30px;   
+  }
+  #a{
+    width: 30%;
+    background-color: aquamarine;
+    margin: 10px 40px 10px 15px;
+    
+  }
+  #b{
+    background-color: bisque;
+    margin: 10px 40px 10px 40px;
+    
+  }
+  #c{
+    background-color: hotpink;
+    margin: 10px 15px 10px 40px;
+  }
+  .width{
+    width: auto;
+  }
+  footer p{
+    text-align: center;
+    background-color: black;
+    color: bisque;
+    padding: 60px 200px 10px 200px;
+    font-size: 30px;
+  }
+  html{
+    width: 100%;
+  }
+  
